@@ -33,3 +33,4 @@ const submeterFormulario = () => {
   const novoSorteio = (rangeInicial, rangeFinal) => {
       return (Math.floor(Math.random() * (rangeFinal - rangeInicial + 1))+rangeInicial);
   }
+/* esqueceu a git aberta no pc da femakkkkkkkk*/
